@@ -2,7 +2,7 @@
 
 A Power BI dashboard comparing Armenia with Azerbaijan, Georgia, and Türkiye across economic, health, digital access, and labor market indicators.
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](Screenshots/dashboard.png)
 
 ## Indicators
 
@@ -26,8 +26,8 @@ Source links and indicator definitions are included in the `About_and_Sources` w
 
 ## Files
 
-- [Excel dataset](World_Bank_Country_Development_2010_2024.xlsx)
-- [Power BI dashboard](Armenia_Regional_Peers.pbix)
+- [Excel dataset](Data/World_Bank_Country_Development_2010_2024.xlsx)
+- [Power BI dashboard](Dashboard/Armenia_Regional_Peers.pbix)
 
 ## Tools
 
